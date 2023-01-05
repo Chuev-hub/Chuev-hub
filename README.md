@@ -2,10 +2,10 @@
 ### Full Stack developer
 ####  About Me 🙋‍♂️
 
- - Have been a programmer for four years 
- - Graduated from IT academy
+ - Have been a programmer for 4.5 years 
+ - Graduated from ITSTEP academy
  - Student of "Igor Sikorsky Kyiv Polytechnic Institute" at the IASA faculty
- - Main stack is a C# 
+ - Main stack - .NET
 
 
 ## 💻 Tech Stack:
