@@ -1,11 +1,11 @@
-## Hi there, my name is Ilya 👋
-### Full Stack developer
+## Hi there 👋
+### I'm a Full Stack developer
 ####  About Me 🙋‍♂️
 
  - Have been a programmer for 4.5 years 
  - Graduated from ITSTEP academy
  - Student of "Igor Sikorsky Kyiv Polytechnic Institute" at the IASA faculty
- - Main stack - .NET
+ - Main stack is .NET
 
 
 ## 💻 Tech Stack:
