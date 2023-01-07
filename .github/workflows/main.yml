@@ -12,7 +12,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: Generate README.md
-      uses: Chuev-hub/Template.md@main
+      uses: teoxoy/profile-readme-stats@master
       with:
         token: ${{ secrets.USER_TOKEN }}
     - name: Update README.md
