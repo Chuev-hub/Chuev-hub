@@ -27,9 +27,9 @@
 ## 🔨Some projects:  
 
 <div class="display:flex">
-<a><img src="https://github.com/Chuev-hub/AutoStockUA/blob/master/work.gif" height="168"  /></a>
-<a><img src="https://github.com/Chuev-hub/Films/blob/master/work.gif" height="168"  /></a>
-<img src="https://github.com/Chuev-hub/Solar/blob/master/work.gif"   height="168"/>
-<img src="https://github.com/Chuev-hub/Cars3D/blob/master/work.gif"  height="168"/>
+<img src="https://github.com/Chuev-hub/AutoStockUA/blob/main/work.gif" height="230"  />
+<img src="https://github.com/Chuev-hub/Films/blob/master/work.gif" height="230"  />
+<img src="https://github.com/Chuev-hub/Solar/blob/master/work.gif"   height="230"/>
+<img src="https://github.com/Chuev-hub/Cars3D/blob/master/work.gif"  height="230"/>
 </div>
 
