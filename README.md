@@ -5,7 +5,7 @@
  - Have been a programmer for 4.5 years 
  - Graduated from ITSTEP academy
  - Student of "Igor Sikorsky Kyiv Polytechnic Institute" at the IASA faculty
-
+ - Completed GeeksForLess .NET course
 
 ## 💻 Tech Stack:  
 <div style:"display: flex;" >
