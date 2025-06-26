@@ -2,9 +2,9 @@
 ### I'm a .NET developer
 ####  About Me 🙋‍♂️
 
- - Have been a programmer for 6+ years 
+ - Have been a programmer for 7+ years 
  - Graduated from ITSTEP academy
- - Student of "Igor Sikorsky Kyiv Polytechnic Institute" at the IASA faculty
+ - Graduated from "Igor Sikorsky Kyiv Polytechnic Institute" IASA faculty
 
 ## 💻 Tech Stack:  
 <div style:"display: flex;" >
