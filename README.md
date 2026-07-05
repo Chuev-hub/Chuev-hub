@@ -3,20 +3,16 @@
 
 ## 💻 Tech Stack:  
 <div style:"display: flex;" >
-<img  width="20px"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="100"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50"  />
 
-<img  width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql" width="100" />
-<img  width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="100" />
-<img  width="50px"/>
-
+<img  width="15px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql" width="50" />
+<img  width="15px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" />
+<img  width="15px"/>
 
 </div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chuev-hub&theme=light&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🔨Some projects:  
 
