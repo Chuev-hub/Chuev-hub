@@ -12,14 +12,14 @@
 <hr />
 
 <div align="center">
-  <img src="https://github.com/Chuev-hub/AutoStockUA/blob/main/work.gif" height="270"  />
-  <img src="https://github.com/Chuev-hub/Films/blob/master/work.gif" height="270"  />
+  <img src="https://github.com/Chuev-hub/AutoStockUA/blob/main/work.gif" height="220"  />
+  <img src="https://github.com/Chuev-hub/Films/blob/master/work.gif" height="220"  />
 </div>
 
 <hr />
 
 <div align="center">  
-  <img src="https://github.com/Chuev-hub/Solar/blob/master/work.gif"   height="270"/>
-  <img src="https://github.com/Chuev-hub/Cars3D/blob/master/work.gif"  height="270"/>
+  <img src="https://github.com/Chuev-hub/Solar/blob/master/work.gif"   height="220"/>
+  <img src="https://github.com/Chuev-hub/Cars3D/blob/master/work.gif"  height="220"/>
 </div>
 <hr />
